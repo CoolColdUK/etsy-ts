@@ -4,9 +4,6 @@
   "description": "Etsy API wrapper written in typescript.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "files": [
-    "dist"
-  ],
   "dependencies": {
     "axios": "^1.2.1",
     "axios-auth-refresh": "^3.3.6",
